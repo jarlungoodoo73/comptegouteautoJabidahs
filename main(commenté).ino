@@ -1,4 +1,4 @@
-//============Configuration du senior el system============
+English //============Configuration du senior el system============
 int set_moist = 50; //Réglage de l'humidité du sol requise par la plante remplacer les X par la valeur en % d'humidité (100% = terre très mouillée, 0% = terre sèche)
 //=========================================================
 //variables pour le timer et comparaison de la pression atmosphérique sur 3h
